@@ -5,7 +5,7 @@ author: Valery Colong<valery.colong@activspaces.com>
 homepage: https://github.com/valerycolong/vcard
 
 environment:
-  sdk: ">=2.3.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
